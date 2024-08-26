@@ -27,7 +27,7 @@ Voici une version modifiée de votre texte :
    ```
 5. Assurez-vous que le dossier `img` existe dans le répertoire du projet et qu’il dispose des permissions adéquates (chmod 777 pour Unix/Linux).
 6. Modifiez le fichier `db.php` dans le répertoire `config` pour qu'il corresponde à vos paramètres de connexion à la base de données locale.
-7. Lancez votre serveur web et accédez à l'application via l'URL suivante : `http://localhost/<projet>/index.php`, en remplaçant `<projet>` par le nom du dossier contenant le projet dans `htdocs`.
+7. Lancez votre serveur web et accédez à l'application via l'URL suivante : `http://localhost/Jeux-video/src/pages/index.php`.
 
 ## Utilisation de l'Application
 
